@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">stepkol</string>
+    <string name="menu_main">Главная</string>
+    <string name="menu_profile">Профиль</string>
+    <string name="menu_statistics">Статистика</string>
+
+    <!-- Profile screen -->
+    <string name="title_profile">Профиль</string>
+    <string name="hint_name">Имя</string>
+    <string name="hint_weight">Вес, кг</string>
+    <string name="hint_height">Рост, см</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="msg_saved">Данные сохранены</string>
+
+    <!-- Statistics screen -->
+    <string name="title_statistics">Статистика</string>
+    <string name="stat_total_steps">Всего шагов: %d</string>
+    <string name="stat_total_calories">Всего ккал: %.1f</string>
+    <string name="stat_user">Пользователь: %s</string>
+    <string name="stat_no_data">Нет данных для отображения</string>
 </resources>
